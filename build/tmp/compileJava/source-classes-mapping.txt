@@ -2,8 +2,8 @@ pandemia/objects/entities/Master.java
  pandemia.objects.entities.Master
 pandemia/configurations/BeanRegister.java
  pandemia.configurations.BeanRegister
-pandemia/objects/entities/User.java
- pandemia.objects.entities.User
+pandemia/services/AuthorityService.java
+ pandemia.services.AuthorityService
 pandemia/objects/entities/Authority.java
  pandemia.objects.entities.Authority
 pandemia/objects/entities/PossibleAuthorities.java
@@ -24,3 +24,13 @@ pandemia/controllers/RestHome.java
  pandemia.controllers.RestHome
 pandemia/listeners/InitOnStart.java
  pandemia.listeners.InitOnStart
+pandemia/services/implementation/AuthorityServiceImpl.java
+ pandemia.services.implementation.AuthorityServiceImpl
+pandemia/objects/entities/Schedule.java
+ pandemia.objects.entities.Schedule
+pandemia/objects/entities/Office.java
+ pandemia.objects.entities.Office
+pandemia/objects/entities/Practice.java
+ pandemia.objects.entities.Practice
+pandemia/objects/entities/User.java
+ pandemia.objects.entities.User

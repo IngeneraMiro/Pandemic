@@ -43,7 +43,8 @@ public class User extends Master implements UserDetails {
     private boolean isCredentialsNonExpired;
     @ManyToMany(fetch = FetchType.EAGER,cascade = CascadeType.REMOVE)
     private Set<Authority> authorities = new HashSet<>();
-
+    @ManyToOne
+    private Practice practice;
     @Override
     public Set<Authority> getAuthorities() {
         return this.authorities;
