@@ -1,0 +1,26 @@
+pandemia/objects/entities/Master.java
+ pandemia.objects.entities.Master
+pandemia/configurations/BeanRegister.java
+ pandemia.configurations.BeanRegister
+pandemia/objects/entities/User.java
+ pandemia.objects.entities.User
+pandemia/objects/entities/Authority.java
+ pandemia.objects.entities.Authority
+pandemia/objects/entities/PossibleAuthorities.java
+ pandemia.objects.entities.PossibleAuthorities
+pandemia/configurations/SecurityConfig.java
+ pandemia.configurations.SecurityConfig
+pandemia/PandemicApp.java
+ pandemia.PandemicApp
+pandemia/repositories/AuthorityRepository.java
+ pandemia.repositories.AuthorityRepository
+pandemia/repositories/UserRepository.java
+ pandemia.repositories.UserRepository
+pandemia/services/implementation/UserServiceImpl.java
+ pandemia.services.implementation.UserServiceImpl
+pandemia/services/UserService.java
+ pandemia.services.UserService
+pandemia/controllers/RestHome.java
+ pandemia.controllers.RestHome
+pandemia/listeners/InitOnStart.java
+ pandemia.listeners.InitOnStart
