@@ -20,8 +20,8 @@ pandemia/services/implementation/UserServiceImpl.java
  pandemia.services.implementation.UserServiceImpl
 pandemia/services/UserService.java
  pandemia.services.UserService
-pandemia/controllers/RestHome.java
- pandemia.controllers.RestHome
+pandemia/objects/entities/User.java
+ pandemia.objects.entities.User
 pandemia/listeners/InitOnStart.java
  pandemia.listeners.InitOnStart
 pandemia/services/implementation/AuthorityServiceImpl.java
@@ -32,5 +32,5 @@ pandemia/objects/entities/Office.java
  pandemia.objects.entities.Office
 pandemia/objects/entities/Practice.java
  pandemia.objects.entities.Practice
-pandemia/objects/entities/User.java
- pandemia.objects.entities.User
+pandemia/controllers/RestHome.java
+ pandemia.controllers.RestHome

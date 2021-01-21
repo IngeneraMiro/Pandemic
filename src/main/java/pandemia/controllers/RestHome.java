@@ -16,8 +16,11 @@ public class RestHome {
     }
 
     @GetMapping("/")
-    public Optional<User> firstLog(){
-        return this.userService.getUserById(1L);
+    public String answer(){
+        return "You are the beautiest girl in the world";
     }
+//    public Optional<User> firstLog(){
+//        return this.userService.getUserById(1L);
+//    }
 
 }
